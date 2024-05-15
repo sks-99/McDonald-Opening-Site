@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(orange, white);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#MD-img {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+#years {
+    color:grey;
+    background: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#date{
+    color:grey;
+    margin: 0;
+    background: whitesmoke;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cloud-section {
+    margin-top: 50px;
+}
+
+.cloud-title {
+    margin-bottom: 10px;
+}
+
+.cloud-hint {
+    margin-top: 0;
+}
+
+#burger{
+    height: 150px;
+    width:300px;
+}
+
+.cloud-img {
+    margin: 20px auto;
+    width: 300px;
+    height:300px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/015/942/303/original/cartoon-sky-with-random-clouds-background-illustration-sky-design-free-vector.jpg");
+    background-size: cover;
+}
+
+#burger:hover {
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNvOGpkbDF2aWR3MGN5MmVtZWE4MmJkaXg1OGttaGp1MDIyaGhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IgOEWPOgK6uVa/giphy.gif");
+
+
+    
+}
+
+#yay:hover {
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hzM2JnNGc4d3Z2ZzB1azVjdXlrcjM4dzN3MjZpM2g1Ynk0MnhwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif");
+    height:300px;
+    width:300px;
+}
+
+
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
