@@ -72,6 +72,7 @@ h1, h2, h3, h4, p {
 
 #yay:hover {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hzM2JnNGc4d3Z2ZzB1azVjdXlrcjM4dzN3MjZpM2g1Ynk0MnhwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nDSlfqf0gn5g4/giphy.gif");
+    
     height:300px;
     width:300px;
 }
